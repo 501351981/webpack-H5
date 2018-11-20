@@ -1,7 +1,9 @@
 {
   "imagePreloadList":[
-    "index/clear.png",
-    "index/friend.png",
-    "index/loading.jpg"
+    "index/common/logo.png",
+    "index/text1.png",
+    "index/text2.png",
+    "index/画板1.jpg",
+    "index/画板2.jpg"
   ]
 }
