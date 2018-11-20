@@ -1,33 +1,17 @@
 # 移动端H5动画webpack配置
 
-> 本脚手架适合官网等较简单的多html网站开发，支持共用导航栏、底部通栏或侧边栏等；通过读取html文件所在目录内容，自动更改配置，即增加页面无需更改webpack配置；支持ES6开发js；支持将less编写样式
+> 本脚手架适合H5动画页面的开发，通过flexible.js解决适配问题，支持px2rem，支持ES6，支持Less，支持图片预加载和loading动画，主要用到jquery和swiper，支持代码压缩
 > 微信：15600059668
 
 ## 主要功能
-> 根据手机屏幕设置font-size
-> 支持px-rem
-> 支持swiper
-> loading页
-> 常用animate
+> 通过flexible.js修改html的font-size，以便通过rem单位进行适配
+> 支持px2rem，less文件中直接写像素值即可，自动转为rem，UI可以按照750px设计
+> 支持ES6
+> 支持Less
+> 示例采用了图片预加载技术，图片预加载结束，自动删除loading动画
+> 示例用到了jquery和swiper
+> build能够对代码进行压缩js/css
 
-> 能够打包成多个html文件和js文件，即支持多入口
-
-> 文件名称都会带上hash值，解决缓存问题
-
-> 能够复用网站的头部导航栏和底部通栏
-
-> 通过采用less进行样式的编写
-
-> 能够支持ES6开发
-
-> 增加页面不需要手动去更改webpack的入口设置，能够根据目录下的文件自动配置
-
-> 能够实时看到开发的效果
-
-> build能够对代码进行压缩
-
-## 相关介绍文章
-[http://shanhuxueyuan.com/news/detail/83.html](http://shanhuxueyuan.com/news/detail/83.html)
 
 ## 下载使用
 

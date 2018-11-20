@@ -2,93 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b478153c-825d-4165-b166-cb99e661552b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/component/loading.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/lib/swiper.animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/lib/swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/proj/index_slid1.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/proj/index_slid2.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/variable.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/clear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/loading_all.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/music.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/common/page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/friend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/loading.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/music_start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/music_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/tanchuang2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/text弹出框.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/wechat_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/index/画板9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/lib/flexible.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/lib/swiper.jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/mod/imagePreload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/proj/loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/index/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/component/footer.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/component/layout.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/component/layout.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/component/navbar.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/tpl/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/tpl/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/tpl/loading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/react.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/index/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/index/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/test/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/test/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/test/test.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack/webpack.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/webpack.common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/webpack.prod.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -126,20 +40,8 @@
       <file leaf-file-name="webpack.common.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack/webpack.common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/css-loader/lib/loader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="-71">
+              <caret line="65" column="14" lean-forward="true" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -172,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/page/index/index.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -286,7 +197,6 @@
         <option value="$PROJECT_DIR$/src/page/test/test.html" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/css/variable.less" />
         <option value="$PROJECT_DIR$/src/css/component/loading.less" />
         <option value="$PROJECT_DIR$/src/html/tpl/loading.html" />
@@ -305,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/js/proj/loading.js" />
         <option value="$PROJECT_DIR$/src/page/index/index.json" />
         <option value="$PROJECT_DIR$/src/page/index/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -349,12 +260,6 @@
               <item name="webpack_study_H5" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack_study_H5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webpack_study_H5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack_study_H5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -374,6 +279,19 @@
               <item name="webpack_study_H5" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack_study_H5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack_study_H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack_study_H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack_study_H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack_study_H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -382,6 +300,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
               <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack_study_H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack_study_H5" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -443,12 +366,12 @@
       <workItem from="1542160864931" duration="27670000" />
       <workItem from="1542526512552" duration="2811000" />
       <workItem from="1542613051610" duration="12815000" />
-      <workItem from="1542692919146" duration="10692000" />
+      <workItem from="1542692919146" duration="10957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59976000" />
+    <option name="totallyTimeSpent" value="60241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,9 +384,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919224" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5016155" side_tool="true" weight="0.34705883" />
@@ -471,7 +395,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4983845" visible="true" weight="0.2632353" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4983845" visible="true" weight="0.2632353" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -579,13 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -708,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/webpack.common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.288157ade6f1ae49165e.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -756,16 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/index/index.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -780,6 +680,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="20" selection-start-column="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/index/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/webpack.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="65" column="14" lean-forward="true" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -798,10 +722,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/index/index.less">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        <state relative-caret-position="30">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
         </state>
       </provider>
     </entry>
