@@ -68,7 +68,7 @@ module.exports={
                 test: /\.less$/,
                 use: ExtractTextPlugin.extract({
                     fallback: "style-loader",
-                    use: "css-loader!less-loader"
+                    use: "css-loader!webpack-px2rem-loader?basePx=75&min=1&floatWidth=3!less-loader"
                 })
 
             },
@@ -85,6 +85,11 @@ module.exports={
             root : root,
         }),
         new ExtractTextPlugin("[name].[hash:8].css"),
+
+        new webpack.ProvidePlugin({
+            $: 'jquery',
+            jQuery: 'jquery',
+        }),
         ...newHtmlWebpackPlugins()
     ]
 }

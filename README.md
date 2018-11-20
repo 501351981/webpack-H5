@@ -1,9 +1,14 @@
-# 多入口HTML网站的webpack配置
+# 移动端H5动画webpack配置
 
 > 本脚手架适合官网等较简单的多html网站开发，支持共用导航栏、底部通栏或侧边栏等；通过读取html文件所在目录内容，自动更改配置，即增加页面无需更改webpack配置；支持ES6开发js；支持将less编写样式
 > 微信：15600059668
 
 ## 主要功能
+> 根据手机屏幕设置font-size
+> 支持px-rem
+> 支持swiper
+> loading页
+> 常用animate
 
 > 能够打包成多个html文件和js文件，即支持多入口
 
